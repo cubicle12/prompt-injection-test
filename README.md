@@ -74,12 +74,6 @@ correct-answer rate drops from A to B.
 - Repeat each case several times, and test other models.
 
 ## AI assistance
-Claude helped design the method, drafted the test cases, generated the
-randomised prompts, and scored the replies with written rules in a script
-that could not see the conditions. I ran all 30 conversations, checked the
-scoring, and reviewed the conclusions.
-
-## AI assistance
 Claude helped me design the method, drafted the test cases, and drafted the
 scoring scripts. I checked every test case, ran every conversation, did all
 the scoring myself, and wrote the conclusions.
